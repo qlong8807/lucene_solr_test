@@ -1,0 +1,8 @@
+参考：http://wiki.apache.org/solr/Solrj
+
+solr6.*需要使用jdk8
+solr5.*可以使用jdk7
+
+solr启动命令 bin/solr start
+
+http://localhost:8983/solr
